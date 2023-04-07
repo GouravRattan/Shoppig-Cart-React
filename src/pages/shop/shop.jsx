@@ -7,7 +7,7 @@ import "./shop.css";
   return (
     <div className='shop'> 
     <div className='shopTitle'>
-        <h1> HUNEE SHOP </h1>
+        <h1> GSSATTNSN SHOP </h1>
     </div>
     <div className="products">
         {PRODUCTS.map((product) => (
